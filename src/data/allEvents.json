@@ -1,0 +1,167 @@
+[
+  {
+    "id": "maha_shivaratri",
+    "name": {
+      "en": "Maha Shivaratri",
+      "hi": "महाशिवरात्रि"
+    },
+    "date": {
+      "en": "February 15, 2026",
+      "hi": "15 फरवरी, 2026"
+    },
+    "description": {
+      "en": "Grand celebration with night-long prayers and abhishekam",
+      "hi": "रात्रि भर चलने वाले पूजन, अभिषेक एवं विशेष आराधना के साथ महाशिवरात्रि का भव्य आयोजन।"
+    }
+  },
+  {
+    "id": "holi",
+    "name": {
+      "en": "Holika Dahan",
+      "hi": "होलीका दहन"
+    },
+    "date": {
+      "en": "March 3, 2026",
+      "hi": "3 मार्च, 2026"
+    },
+    "description": {
+      "en": "Holi celebration with prayers and devotional activities.",
+      "hi": "प्रार्थना और भक्ति भाव के साथ होली का पर्व मनाया जाता है।"
+    }
+  },
+  {
+    "id": "navratri",
+    "name": {
+      "en": "Navratri",
+      "hi": "नवरात्रि"
+    },
+    "date": {
+      "en": "March 19 - March 27, 2026",
+      "hi": "19 मार्च – 27 मार्च, 2026"
+    },
+    "description": {
+      "en": "Nine nights of Goddess Durga worship",
+      "hi": "माँ दुर्गा की उपासना के नौ पावन दिनों का पर्व।"
+    }
+  },
+  {
+    "id": "ram_navami",
+    "name": {
+      "en": "Ram Navami",
+      "hi": "राम नवमी"
+    },
+    "date": {
+      "en": "March 26, 2026",
+      "hi": "26 मार्च, 2026"
+    },
+    "description": {
+      "en": "Birth anniversary of Lord Rama with special puja and bhajan",
+      "hi": "भगवान श्रीराम के जन्मोत्सव के अवसर पर विशेष पूजा एवं भजन।"
+    }
+  },
+  {
+    "id": "hanuman_jayanti",
+    "name": {
+      "en": "Hanuman Jayanti",
+      "hi": "हनुमान जयंती"
+    },
+    "date": {
+      "en": "April 2, 2026",
+      "hi": "2 अप्रैल, 2026"
+    },
+    "description": {
+      "en": "Celebration of Lord Hanuman's birth and divine qualities",
+      "hi": "भगवान हनुमान के जन्मोत्सव एवं उनके दिव्य गुणों का उत्सव।"
+    }
+  },
+  {
+    "id": "buddha_purnima",
+    "name": {
+      "en": "Buddha Purnima",
+      "hi": "बुद्ध पूर्णिमा"
+    },
+    "date": {
+      "en": "May 1, 2026",
+      "hi": "1 मई, 2026"
+    },
+    "description": {
+      "en": "Celebration of Buddha's birth, enlightenment, and nirvana",
+      "hi": "भगवान बुद्ध के जन्म, ज्ञान प्राप्ति एवं महापरिनिर्वाण का स्मरण।"
+    }
+  },
+  {
+    "id": "nirjala_ekadashi",
+    "name": {
+      "en": "Nirjala Ekadashi",
+      "hi": "निर्जला एकादशी"
+    },
+    "date": {
+      "en": "June 25, 2026",
+      "hi": "25 जून, 2026"
+    },
+    "description": {
+      "en": "Fasting and special prayers on Ekadashi day",
+      "hi": "निर्जल व्रत एवं विशेष पूजा के साथ एकादशी का पर्व।"
+    }
+  },
+  {
+    "id": "guru_poornima",
+    "name": {
+      "en": "Guru Poornima",
+      "hi": "गुरु पूर्णिमा"
+    },
+    "date": {
+      "en": "July 30, 2026",
+      "hi": "30 जुलाई, 2026"
+    },
+    "description": {
+      "en": "Celebration of Guru Nanak Dev Ji's birth and teachings",
+      "hi": "गुरुओं के प्रति श्रद्धा, सम्मान एवं कृतज्ञता व्यक्त करने का पावन दिवस।"
+    }
+  },
+  {
+    "id": "krishna_janmashtami",
+    "name": {
+      "en": "Krishna Janmashtami",
+      "hi": "कृष्ण जन्माष्टमी"
+    },
+    "date": {
+      "en": "August 15, 2026",
+      "hi": "15 अगस्त, 2026"
+    },
+    "description": {
+      "en": "Celebration of Lord Krishna's birth with special prayers and devotional songs",
+      "hi": "भगवान श्रीकृष्ण के जन्मोत्सव के अवसर पर विशेष पूजा एवं भजन-कीर्तन।"
+    }
+  },
+  {
+    "id": "raksha_bandhan",
+    "name": {
+      "en": "Raksha Bandhan",
+      "hi": "रक्षा बंधन"
+    },
+    "date": {
+      "en": "August 28, 2026",
+      "hi": "28 अगस्त, 2026"
+    },
+    "description": {
+      "en": "Raksha Bandhan is celebrated with prayers and blessings, honoring the bond of love and protection.",
+      "hi": "भाई-बहन के प्रेम, सुरक्षा और स्नेह का प्रतीक पर्व।"
+    }
+  },
+  {
+    "id": "ganesh_chaturthi",
+    "name": {
+      "en": "Ganesh Chaturthi",
+      "hi": "गणेश चतुर्थी"
+    },
+    "date": {
+      "en": "September 12, 2026",
+      "hi": "12 सितंबर, 2026"
+    },
+    "description": {
+      "en": "Celebration of Lord Ganesha's birth",
+      "hi": "भगवान गणेश के जन्मोत्सव का श्रद्धा और भक्ति के साथ आयोजन।"
+    }
+  }
+]

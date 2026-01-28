@@ -1,0 +1,189 @@
+[
+  {
+    "id": "shiv_parivar",
+    "name": {
+      "en": "Shiv Parivar",
+      "hi": "शिव परिवार"
+    },
+    "description": {
+      "en": "The divine family of Lord Shiva including Maa Parvati, Lord Ganesha, and Lord Kartikeya, symbolizing unity, balance, and cosmic harmony.",
+      "hi": "भगवान शिव का दिव्य परिवार जिसमें माँ पार्वती, भगवान गणेश और भगवान कार्तिकेय शामिल हैं, जो संतुलन और सामंजस्य का प्रतीक है।"
+    },
+    "significance": {
+      "en": "Divine Family",
+      "hi": "दिव्य परिवार"
+    },
+    "mantra": "ॐ नमः शिवाय",
+    "color": "from-orange-600 to-red-700"
+  },
+    {
+      "id": "ram_parivar",
+      "name": {
+        "en": "Ram Parivar",
+        "hi": "राम परिवार"
+      },
+      "description": {
+        "en": "The sacred family of Lord Rama including Maa Sita, Lord Lakshmana, and Lord Hanuman, representing righteousness, devotion, and ideal family values.",
+        "hi": "भगवान राम का पावन परिवार जिसमें माता सीता, लक्ष्मण और हनुमान जी शामिल हैं, जो धर्म, भक्ति और आदर्श पारिवारिक मूल्यों का प्रतीक है।"
+      },
+      "significance": {
+        "en": "Ideal Family",
+        "hi": "आदर्श परिवार"
+      },
+      "mantra": "श्री राम जय राम",
+      "color": "from-green-600 to-teal-700"
+    },
+    {
+      "id": "durga",
+      "name": {
+        "en": "Maa Durga",
+        "hi": "माँ दुर्गा"
+      },
+      "description": {
+        "en": "The divine mother goddess who destroys evil and protects her devotees.",
+        "hi": "दिव्य माँ देवी जो बुराई को नष्ट करती हैं और अपने भक्तों की रक्षा करती हैं।"
+      },
+      "significance": {
+        "en": "Shakti",
+        "hi": "शक्ति"
+      },
+      "mantra": "ॐ दुं दुर्गायै नमः",
+      "color": "from-red-600 to-pink-700"
+    },
+    {
+      "id": "ganesh",
+      "name": {
+        "en": "Lord Ganesh",
+        "hi": "भगवान गणेश"
+      },
+      "description": {
+        "en": "The remover of obstacles and lord of beginnings, wisdom and intellect.",
+        "hi": "विघ्नों को दूर करने वाले और नई शुरुआत, ज्ञान और बुद्धि के स्वामी।"
+      },
+      "significance": {
+        "en": "Vighnaharta",
+        "hi": "विघ्नहर्ता"
+      },
+      "mantra": "ॐ गं गणपतये नमः",
+      "color": "from-yellow-600 to-orange-700"
+    },
+    {
+      "id": "ranisati",
+      "name": {
+        "en": "Shri Rani Sati Mata",
+        "hi": "श्री रानी सती माता"
+      },
+      "description": {
+        "en": "The goddess of courage and devotion, revered for her divine power and protection.",
+        "hi": "साहस और भक्ति की देवी, उनकी दिव्य शक्ति और सुरक्षा के लिए पूजनीय।"
+      },
+      "significance": {
+        "en": "Divine Protector",
+        "hi": "दिव्य रक्षक"
+      },
+      "mantra": "जय रानी सती माता",
+      "color": "from-purple-600 to-pink-700"
+    },
+    {
+      "id": "hanuman",
+      "name": {
+        "en": "Lord Hanuman",
+        "hi": "भगवान हनुमान"
+      },
+      "description": {
+        "en": "The epitome of devotion, strength, and selfless service to Lord Rama.",
+        "hi": "भक्ति, शक्ति और भगवान राम की निःस्वार्थ सेवा के प्रतीक।"
+      },
+      "significance": {
+        "en": "Sankat Mochan",
+        "hi": "संकट मोचन"
+      },
+      "mantra": "ॐ हं हनुमते नमः",
+      "color": "from-orange-500 to-red-600"
+    },
+    {
+      "id": "lakshminarayan",
+      "name": {
+        "en": "Lakshmi Narayan",
+        "hi": "लक्ष्मी नारायण"
+      },
+      "description": {
+        "en": "The divine union of Goddess Lakshmi and Lord Vishnu, symbolizing prosperity, harmony, and preservation.",
+        "hi": "देवी लक्ष्मी और भगवान विष्णु का दिव्य स्वरूप, जो समृद्धि और संरक्षण का प्रतीक है।"
+      },
+      "significance": {
+        "en": "Prosperity & Preservation",
+        "hi": "समृद्धि और संरक्षण"
+      },
+      "mantra": "ॐ नमो नारायणाय",
+      "color": "from-pink-600 to-rose-700"
+    },
+    {
+      "id": "saraswati",
+      "name": {
+        "en": "Maa Saraswati",
+        "hi": "माँ सरस्वती"
+      },
+      "description": {
+        "en": "The goddess of knowledge, wisdom, music, and arts, guiding devotees towards enlightenment.",
+        "hi": "विद्या, बुद्धि, संगीत और कला की देवी, जो ज्ञान का मार्ग प्रशस्त करती हैं।"
+      },
+      "significance": {
+        "en": "Goddess of Knowledge",
+        "hi": "विद्या की देवी"
+      },
+      "mantra": "ॐ ऐं सरस्वत्यै नमः",
+      "color": "from-indigo-600 to-blue-700"
+    },
+    {
+      "id": "radhakrishna",
+      "name": {
+        "en": "Radha Krishna",
+        "hi": "राधा कृष्ण"
+      },
+      "description": {
+        "en": "The divine embodiment of eternal love, devotion, and spiritual bliss.",
+        "hi": "अनन्त प्रेम, भक्ति और आध्यात्मिक आनंद का दिव्य स्वरूप।"
+      },
+      "significance": {
+        "en": "Divine Love",
+        "hi": "दिव्य प्रेम"
+      },
+      "mantra": "राधे कृष्ण",
+      "color": "from-emerald-600 to-green-700"
+    },
+    {
+      "id": "bhairav",
+      "name": {
+        "en": "Bhairav Baba",
+        "hi": "भैरव बाबा"
+      },
+      "description": {
+        "en": "A fierce manifestation of Lord Shiva, protector of dharma and guardian of sacred spaces.",
+        "hi": "भगवान शिव का उग्र रूप, धर्म के रक्षक और पवित्र स्थलों के संरक्षक।"
+      },
+      "significance": {
+        "en": "Kshetrapal",
+        "hi": "क्षेत्रपाल"
+      },
+      "mantra": "ॐ भैरवाय नमः",
+      "color": "from-gray-700 to-zinc-900"
+    },
+    {
+      "id": "shitla",
+      "name": {
+        "en": "Maa Shitla",
+        "hi": "माँ शीतला"
+      },
+      "description": {
+        "en": "The goddess of health and protection, worshipped for prevention from diseases and for the well-being of devotees.",
+        "hi": "स्वास्थ्य और रोग निवारण की देवी, जिनकी पूजा रोगों से रक्षा और कल्याण के लिए की जाती है।"
+      },
+      "significance": {
+        "en": "Goddess of Health",
+        "hi": "स्वास्थ्य की देवी"
+      },
+      "mantra": "ॐ शीतलायै नमः",
+      "color": "from-sky-600 to-cyan-700"
+    }
+]

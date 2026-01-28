@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rudrabhishek",
+    "name": {
+      "en": "Rudrabhishek",
+      "hi": "रुद्राभिषेक"
+    },
+    "time": {
+      "en": "Daily at 6:00 AM",
+      "hi": "प्रतिदिन सुबह 6:00 बजे"
+    },
+    "description": {
+      "en": "Sacred bathing ceremony of Lord Shiva with holy water, milk, and bilva leaves",
+      "hi": "पवित्र जल, दूध और बिल्व पत्र से भगवान शिव का पवित्र स्नान समारोह"
+    }
+  },
+    {
+      "id": "abhishek",
+      "name": {
+        "en": "Abhishek Puja",
+        "hi": "अभिषेक पूजा"
+      },
+      "time": {
+        "en": "On Request",
+        "hi": "अनुरोध पर"
+      },
+      "description": {
+        "en": "Special offering ceremony for devotees with personalized prayers",
+        "hi": "व्यक्तिगत प्रार्थनाओं के साथ भक्तों के लिए विशेष अर्पण समारोह"
+      }
+    },
+    {
+      "id": "hanuman_chalisa",
+      "name": {
+        "en": "Hanuman Chalisa Path",
+        "hi": "हनुमान चालीसा पाठ"
+      },
+      "time": {
+        "en": "Tuesday & Saturday",
+        "hi": "मंगलवार और शनिवार"
+      },
+      "description": {
+        "en": "Recitation of 40 verses praising Lord Hanuman",
+        "hi": "भगवान हनुमान की प्रशंसा में 40 छंदों का पाठ"
+      }
+    },
+    {
+      "id": "sunderkand",
+      "name": {
+        "en": "Sunderkand Path",
+        "hi": "सुंदरकांड पाठ"
+      },
+      "time": {
+        "en": "Every Saturday",
+        "hi": "प्रथम शनिवार"
+      },
+      "description": {
+        "en": "Recitation of the beautiful chapter from Ramayana",
+        "hi": "रामायण के सुंदर अध्याय का पाठ"
+      }
+    },
+    {
+      "id": "durga_saptashati",
+      "name": {
+        "en": "Durga Saptashati Path",
+        "hi": "दुर्गा सप्तशती पाठ"
+      },
+      "time": {
+        "en": "During Navratri",
+        "hi": "नवरात्रि के दौरान"
+      },
+      "description": {
+        "en": "Chanting of 700 verses in praise of Goddess Durga",
+        "hi": "देवी दुर्गा की प्रशंसा में 700 श्लोकों का जाप"
+      }
+    },
+    {
+      "id": "poornima",
+      "name": {
+        "en": "Monthly Poornima Puja",
+        "hi": "मासिक पूर्णिमा पूजा"
+      },
+      "time": {
+        "en": "Full Moon Day",
+        "hi": "पूर्णिमा के दिन"
+      },
+      "description": {
+        "en": "Special worship on the auspicious full moon night",
+        "hi": "शुभ पूर्णिमा रात्रि पर विशेष पूजा"
+      }
+    }
+]

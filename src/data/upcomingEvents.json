@@ -1,0 +1,62 @@
+[
+  {
+    "id": "maha_shivaratri",
+    "name": {
+      "en": "Maha Shivaratri",
+      "hi": "महाशिवरात्रि"
+    },
+    "date": {
+      "en": "February 15, 2026",
+      "hi": "15 फरवरी, 2026"
+    },
+    "description": {
+      "en": "Grand celebration with night-long prayers and abhishekam",
+      "hi": "रात्रि भर चलने वाले पूजन, अभिषेक एवं विशेष आराधना के साथ महाशिवरात्रि का भव्य आयोजन।"
+    }
+  },
+  {
+    "id": "holi",
+    "name": {
+      "en": "Holika Dahan",
+      "hi": "होलीका दहन"
+    },
+    "date": {
+      "en": "March 3, 2026",
+      "hi": "3 मार्च, 2026"
+    },
+    "description": {
+      "en": "Holi celebration with prayers and devotional activities.",
+      "hi": "प्रार्थना और भक्ति भाव के साथ होली का पर्व मनाया जाता है।"
+    }
+  },
+  {
+    "id": "navratri",
+    "name": {
+      "en": "Navratri",
+      "hi": "नवरात्रि"
+    },
+    "date": {
+      "en": "March 19 - March 27, 2026",
+      "hi": "19 मार्च – 27 मार्च, 2026"
+    },
+    "description": {
+      "en": "Nine nights of Goddess Durga worship",
+      "hi": "माँ दुर्गा की उपासना के नौ पावन दिनों का पर्व।"
+    }
+  },
+  {
+    "id": "ram_navami",
+    "name": {
+      "en": "Ram Navami",
+      "hi": "राम नवमी"
+    },
+    "date": {
+      "en": "March 26, 2026",
+      "hi": "26 मार्च, 2026"
+    },
+    "description": {
+      "en": "Birth anniversary of Lord Rama with special puja and bhajan",
+      "hi": "भगवान श्रीराम के जन्मोत्सव के अवसर पर विशेष पूजा एवं भजन।"
+    }
+  }
+]
