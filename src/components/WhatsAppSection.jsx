@@ -2,6 +2,8 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { MessageCircle, Users, Bell, HeartHandshake, Camera } from 'lucide-react';
 
+import { REPO_BASE } from '../data/constants';
+
 const WhatsAppSection = () => {
   const { t } = useTranslation();
 
