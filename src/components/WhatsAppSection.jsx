@@ -38,7 +38,7 @@ const WhatsAppSection = () => {
               <div className="w-64 h-64 bg-gradient-to-br from-green-100 to-emerald-100 rounded-xl flex items-center justify-center relative overflow-hidden">
                 {/* You can replace this with an actual QR code image */}
                 <img 
-                  src="/images/whatsapp-qr.jpeg" 
+                  src={`${REPO_BASE}/images/whatsapp-qr.jpeg`} 
                   alt="WhatsApp Group QR Code"
                   className="w-full h-full object-contain"
                   onError={(e) => {
